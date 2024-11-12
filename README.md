@@ -14,6 +14,14 @@ If you find this repository useful, please consider giving a star :star: and cit
   journal = {IEEE Geoscience and Remote Sensing Magazine},
   author = {Zhang, Hao and Xu, Jin-Jian and Cui, Hong-Wei and Li, Lin and Yang, Yaowen and Tang, Chao-Sheng and Boers, Niklas},
   year = {2024},
-  doi={10.1109/MGRS.2024.3496478}
+  doi={10.1109/MGRS.2024.3496478},
+  arxiv={2309.06799}
 }
 ```
+
+## Related surveys and reviews
+|Title|Publication|Paper|
+|:---:|---|:---:|
+|Brain-inspired remote sensing foundation models and open problems: A comprehensive survey | IEEE JSTAR-2023 | [link](https://ieeexplore.ieee.org/abstract/document/10254282) |
+
+
