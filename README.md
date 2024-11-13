@@ -1,8 +1,10 @@
 
 # <p align=center>`Awesome Geoscience Foundation Models`</p>
 
-:star2:**A collection of papers for Geoscience Foundation Models (GFMs) in our paper "[When Geoscience Meets Foundation Models: Towards General Geoscience Artificial Intelligence System](https://arxiv.org/abs/2309.06799)".**
+:star2:**A collection of papers for Geoscience Foundation Models (GFMs) in our paper "[When Geoscience Meets Foundation Models: Towards General Geoscience Artificial Intelligence System](https://doi.org/10.1109/MGRS.2024.3496478)".**
 
+## Note
+For detailed analysis of these models, please ref to the accepted paper now available on [Arxiv](https://arxiv.org/abs/2309.06799), and it will be available on [IEEE Xplore](https://doi.org/10.1109/MGRS.2024.3496478) soon.
 
 ## Citation
 
@@ -100,3 +102,28 @@ article
 |2023|A self-supervised cross-modal remote sensing foundation model with multi-domain representation and cross-domain fusion|IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium|[link](https://ieeexplore.ieee.org/abstract/document/10282433/)|
 
 
+## Advanced Large Vision-Language Models for Geoscience
+|Year|Title|Publication|Paper|
+|:---:|---|:---:|:---:|
+|2022|Language transformers for remote sensing visual question answering|IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium|[link](https://ieeexplore.ieee.org/abstract/document/9884036/)|
+|2023|LiT-4-RSVQA: Lightweight transformer-based visual question answering in remote sensing|IGARSS 2023-2023 IEEE International Geoscience and Remote Sensing Symposium|[link](https://ieeexplore.ieee.org/abstract/document/10281674/)|
+|2023|The curse of language biases in remote sensing VQA: the role of spatial attributes, language diversity, and the need for clear evaluation|arXiv preprint arXiv:2311.16782|[link](https://arxiv.org/abs/2311.16782)|
+|2023|Geochat: Grounded large vision-language model for remote sensing|arXiv preprint arXiv:2311.15826|[link](https://openaccess.thecvf.com/content/CVPR2024/html/Kuckreja_GeoChat_Grounded_Large_Vision-Language_Model_for_Remote_Sensing_CVPR_2024_paper.html)|
+|2024|Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain|arXiv preprint arXiv:2401.16822|[link](https://ieeexplore.ieee.org/abstract/document/10547418/)|
+|2024|Skyeyegpt: Unifying remote sensing vision-language tasks via instruction tuning with large language model|arXiv preprint arXiv:2401.09712|[link](https://arxiv.org/abs/2401.09712)|
+|2024|Skyscript: A large and semantically diverse vision-language dataset for remote sensing|Proceedings of the AAAI Conference on Artificial Intelligence|[link](https://ojs.aaai.org/index.php/AAAI/article/view/28393)|
+|2023|Remote sensing vision-language foundation models without annotations via ground remote alignment|arXiv preprint arXiv:2312.06960|[link](https://arxiv.org/abs/2312.06960)|
+|2023|Rs-clip: Zero shot remote sensing scene classification via contrastive vision-language supervision|International Journal of Applied Earth Observation and Geoinformation|[link](https://www.sciencedirect.com/science/article/pii/S1569843223003217)|
+|2024|Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data|arXiv preprint arXiv:2401.17600|[link](https://arxiv.org/abs/2401.17600)|
+|2023|Rsgpt: A remote sensing vision language model and benchmark|arXiv preprint arXiv:2307.15266|[link](https://arxiv.org/abs/2307.15266)|
+|2024|Chatearthnet: A global-scale, high-quality image-text dataset for remote sensing|arXiv preprint arXiv:2402.11325|[link](https://arxiv.org/abs/2402.11325)|
+|2024|RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding|arXiv preprint arXiv:2406.12479|[link](https://arxiv.org/abs/2406.12479)|
+|2024|Remoteclip: A vision language foundation model for remote sensing|IEEE Transactions on Geoscience and Remote Sensing|[link](https://ieeexplore.ieee.org/abstract/document/10504785/)|
+|2022|CLIP-RS: A Cross-modal Remote Sensing Image Retrieval Based on CLIP, a Northern Virginia Case Study||[link](https://vtechworks.lib.vt.edu/items/beb6f813-0cc6-4594-a4ef-0068cc16b0bd)|
+|2024|H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model|arXiv preprint arXiv:2403.20213|[link](https://arxiv.org/abs/2403.20213)|
+|2023|Vision-Language Models for Zero-Shot Classification of Remote Sensing Images|Applied Sciences|[link](https://www.mdpi.com/2076-3417/13/22/12462)|
+|2024|VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding|arXiv preprint arXiv:2406.12384|[link](https://arxiv.org/abs/2406.12384)|
+|2023|Foundation model-based multimodal remote sensing data classification|IEEE Transactions on Geoscience and Remote Sensing|[link](https://ieeexplore.ieee.org/abstract/document/10375372/)|
+|2022|Prompt-RSVQA: Prompting visual context to a language model for remote sensing visual question answering|Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition|[link](http://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html)|
+|2024|Large language models for captioning and retrieving remote sensing images|arXiv preprint arXiv:2402.06475|[link](https://arxiv.org/abs/2402.06475)|
+|2023|Text2seg: Remote sensing image semantic segmentation via text-guided visual foundation models|arXiv preprint arXiv:2304.10597|[link](https://arxiv.org/abs/2304.10597)|
